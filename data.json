@@ -1,8 +1,7 @@
  	{
-		 //jar+壁纸
-"spider":"http://45.125.46.61/xpg.jar;md5;a242cdd71961fa91fc12c335218440eb",
+		 		 //jar+壁纸
+"spider":"https://gitcode.net/a584217/diy-tvbox/-/raw/master/jar/0906.jar;md5;86A2E6D82742D949C4FDC0B981085655",
 "wallpaper":"https://tool.weetai.cn/api",
-
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
