@@ -1,25 +1,7 @@
 {
 	"sites": [
-	{
-			"key": "KanSJ_spider",
-			"name": "🍎看视界",
-			"api": "csp_KanSJ",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": ""
-		},
-		  {"key": "csp_Auete"      ,"name":"🍎Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-		 {
-			"key": "csp_LibVio",
-			"name": "🍎LibVio",
-			"type": 3,
-			"api": "csp_Lib",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
+	
+		  
 		{
 			"key": "小苹果",
 			"name": "🍎小苹果",
