@@ -11,7 +11,17 @@
 {"key":"Smdyy","name":"神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-     
+ ///bili
+{"key": "学堂1","name": "儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,
+"ext": "https://agit.ai/bicg/Blest/raw/branch/cc/res/study/01.json"},
+{"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,
+"ext": "https://agit.ai/bicg/Blest/raw/branch/cc/res/study/02.json"},
+{"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,
+"ext": "https://agit.ai/bicg/Blest/raw/branch/cc/res/study/03.json"},
+{"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,
+"ext": "https://agit.ai/bicg/Blest/raw/branch/cc/res/study/04.json"},
+{"key": "bilixq","name": "河南戏曲","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,
+"ext": "https://agit.ai/bicg/Blest/raw/branch/cc/res/bili/xq.json"},    
 {
       "key": "极速",
       "name": "🏍️极速〔聚〕",
