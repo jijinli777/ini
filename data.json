@@ -1,3 +1,4 @@
+{
 "spider": "http://45.125.46.61/xpg.jar;md5;a242cdd71961fa91fc12c335218440eb",
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
