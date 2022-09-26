@@ -7,10 +7,31 @@
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
  "sites": [
-{"key":"csp_77","name":"点首页，下拉换资源","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP" ,"name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"KanSJ_spider","name":"爱看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":0},	
 {"key": "csp_QQ","name": "腾讯视频","type": 3,"api": "csp_QQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://see.moemew.com/ext/qam.jar"},
+{
+      "key": "极速",
+      "name": "极速",
+      "type": 1,
+      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    }，
 {"key": "爱奇艺","name": "爱之奇艺","type": 3,"api": "csp_IQIYI","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://see.moemew.com/ext/qam.jar"},
 {"key": "csp_MGTV","name": "芒果之家","type": 3,"api": "csp_MGTV","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://see.moemew.com/ext/qam.jar"},
 {"key": "csp_AppTT","name": "兔兔影视","type": 3,"api": "csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
@@ -23,6 +44,9 @@
 {"key":"小苹果","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch":0,"searchable":0,"ext": ""}, 
+{"key":"KanSJ_spider","name":"爱看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":0},	
+{"key":"csp_77","name":"点首页，下拉换资源","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CZSPP" ,"name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Cokemv"  ,"name":"可口影院","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"白兔影视","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Anime1","name": "动漫频道","type": 3,"api": "csp_Anime1","searchable":0,"quickSearch":0,"filterable": 1},
