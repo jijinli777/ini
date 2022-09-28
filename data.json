@@ -3,6 +3,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9sdDM2MTEvbHQzNjExLmdpdGh1Yi5pby9tYWluL2RzLnR4dA=="]}]}],
 "wallpaper": "https://tool.weetai.cn/api",
  "sites": [
+    {"key":"csp_SP360","name":"影视 |首页|","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {
 			"key": "小苹果",
 			"name": "🍎主力源",
